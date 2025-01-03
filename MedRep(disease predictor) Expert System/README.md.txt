@@ -2,7 +2,9 @@ MedRep_README
 
 Overview
 ----------------------
-MedRep is a simple disease prediction and treatment suggestion application developed using Python and the Tkinter library. This application helps users input their symptoms, predict possible diseases, and suggest appropriate treatments. It also provides links to more information about each disease.
+MedRep is a simple disease prediction and treatment suggestion application developed using Python and the Tkinter library. 
+This application helps users input their symptoms, predict possible diseases, and suggest appropriate treatments. 
+It also provides links to more information about each disease.
 
 Features
 -----------------------
